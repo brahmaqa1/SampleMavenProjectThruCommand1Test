@@ -18,7 +18,7 @@ public class CreateNewUserTc03
 //	public static void main(String[] args) throws InterruptedException 
 	{
 		// TODO Auto-generated method stub
-
+	// Tester2 added comment 
 //		WebDriver driver = null;	
 //
 //		//		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Lenovo\\Downloads\\chromedriver_win32 (8)\\chromedriver.exe");

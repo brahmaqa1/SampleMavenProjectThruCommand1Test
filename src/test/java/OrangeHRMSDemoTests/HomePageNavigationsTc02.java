@@ -19,7 +19,7 @@ public class HomePageNavigationsTc02
 //	public static void main(String[] args) 
 	{
 
-
+		// Tester 2 added some commnet
 //		WebDriver driver = null;	
 //		System.setProperty("webdriver.chrome.driver", ".\\Drivers\\chromedriver.exe");
 //		// . Represents current project folder name
